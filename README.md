@@ -22,3 +22,6 @@ npm run dev
 
 for testing run
 npm run dev 
+
+### note
+please use the master branch for the repo 
